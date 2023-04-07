@@ -1,0 +1,7 @@
+name: Template
+version: Alpha-0.0.1
+main: com.ddang_.template.Template
+api-version: 1.19
+authors: [ DDang_, A_bins ]
+description: Minecraft kotlin plugin template with gradle.kts (paper)
+website: https://github.com/I-am-ddang
